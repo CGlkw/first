@@ -5,5 +5,7 @@ package com.qf;
  */
 public class FirstController {
     public void first(){};
-    public void secend(){};
+    public void secend(){
+        System.out.println("hello world");
+    };
 }
