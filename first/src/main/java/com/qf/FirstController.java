@@ -5,4 +5,5 @@ package com.qf;
  */
 public class FirstController {
     public void first(){};
+    public void secend(){};
 }
